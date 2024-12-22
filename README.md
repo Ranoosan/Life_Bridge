@@ -21,5 +21,3 @@ This project is an innovative web platform that combines a **crowdfunding system
 - **Backend**: [JavaScript]  
 - **Database**: [MySQL]  
 
-
-   git clone https://github.com/yourusername/your-repository.git  
